@@ -1,0 +1,1 @@
+audio_play_sound(som_musica,1,1,1,0,1.5);

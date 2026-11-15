@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"som_batida_raquete",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.032018,
+  "exportDir":"",
+  "name":"som_batida_raquete",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"som_batida_raquete.mp3",
+  "volume":0.13,
+}
